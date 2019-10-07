@@ -18,7 +18,7 @@ const userBackgrounds = {
         "Vadeel-1",
     ],
     "spring": [
-        // "-MattyMcFly-1", // Not 1080p; 1252x724
+         "-MattyMcFly-1", // Not 1080p; 1252x724
         "And_Justice-1",
         "AzudemK-1",
         "Enzo03-1",
@@ -28,7 +28,7 @@ const userBackgrounds = {
         "Positivevibes845-1",
         "Semyonov-1", // 1440p
         "slamdunk_12-1",
-        // "ur4ddiction-1", // Not 1080p; 1022x598
+         "ur4ddiction-1", // Not 1080p; 1022x598
         "xXMetalFlakeXx-1",
     ],
     "summer": [
@@ -50,7 +50,7 @@ const userBackgrounds = {
         "OriginalForzaCoverArt-1",
         "parkel42-1",
         "parkel42-2",
-        // "parkel42-3", // Not a fan
+         "parkel42-3", // Not a fan
         "sjoel92-1",
         "StickManTwit-1",
         "ThatsJustLogic-1",
